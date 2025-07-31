@@ -2,7 +2,7 @@
 
 ### Artigo:
 
-- https://www.overleaf.com/read/mwkvwyrnmmnf#a23aa6
+- (AQUI)[https://github.com/gventino/MLP_CIC-IDS2017/blob/main/Intelig%C3%AAncia_Computacional_MLP.pdf]
 
 ## 1. Baixe o dataset e descompacte em CSVs
 
